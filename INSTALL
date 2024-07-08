@@ -1,0 +1,24 @@
+Installation instructions for the project.
+
+
+1. **Clone the Repository**
+
+    ```sh
+    git clone https://github.com/yourusername/image-segmentation-cuda.git
+    cd image-segmentation-cuda
+    ```
+
+2. **Build the Project**
+
+    ```sh
+    mkdir build
+    cd build
+    cmake ..
+    make
+    ```
+
+    OR
+    
+    ```
+    chmod +x run.sh
+    ./run.sh
