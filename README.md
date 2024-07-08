@@ -45,7 +45,7 @@ make
 
 ### Photos
 original texture 1.4.05
-![1 4 05](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/7c18144b-5f88-492e-87df-4cb3042592a1)
+![1 4 05](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/56ccfeb4-5ad9-40a3-aa28-6b03ab6fd5c3)
 colorized
 ![1 4 05_colorized](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/12e9afac-55a0-445a-8e92-a6caaa6d9004)
 edges
