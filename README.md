@@ -42,3 +42,18 @@ cd build
 cmake ..
 make
 ./segmentation
+
+### Photos
+original texture 1.4.05
+![1 4 05](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/7c18144b-5f88-492e-87df-4cb3042592a1)
+colorized
+![1 4 05_colorized](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/12e9afac-55a0-445a-8e92-a6caaa6d9004)
+edges
+![1 4 05_edges](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/3cc80fe7-bf2e-4aff-b304-fdfab625216d)
+horizontal edges
+![1 4 05_horizontal](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/a115b91c-9e3d-4124-a086-b37761336bec)
+vertical edges
+![1 4 05_vertical](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/89c52094-1ca9-4e0b-ba96-9999d98a2f87)
+segmented
+![1 4 05_segmented](https://github.com/Avinash-21028/CUDA_IMAGE_SEGMENTATION_PROJECT/assets/100469984/16c98dfb-d66e-4adf-b142-9feb16ba7d3c)
+
